@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
  <img alt="django"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
  </a>
    <a href="https://laravel.com/">
- <img alt="Laravel"src="https://www.eewee.fr/wp-content/uploads/2016/01/laravel-logo.jpg" width="40"/>
+ <img alt="Laravel"src="https://www.eewee.fr/wp-content/uploads/2016/01/laravel-logo.jpg" width="100"/>
  </a>
 </p>
 <p float="left">
