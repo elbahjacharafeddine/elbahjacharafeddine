@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
   </a>
  
   <a href="https://spring.io/">
-<img alt="spring" src="https://velog.velcdn.com/images/minhyeok_dev/post/ebbc5f27-dd75-483b-9ae6-04129d258699/image.png" width="40">
+<img alt="spring" src="https://velog.velcdn.com/images/minhyeok_dev/post/ebbc5f27-dd75-483b-9ae6-04129d258699/image.png" width="100">
   </a>
   <a href="https://flask.palletsprojects.com/">
  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" width="60"/>
