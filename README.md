@@ -100,5 +100,9 @@ You can click the Preview link to take a look at your changes.
   - 📈 check out my github stats 
  <a href="https://github.com/elbahjacharafeddine">
 
+[![ELBAHJA GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elbahjacharafeddine)](https://github.com/elbahjacharafeddine)
 
+![](https://github.com/elbahjacharafeddine/README/blob/main/generated/overview.svg)
+<!---
+![](https://github.com/elbahjacharafeddine/README/blob/main/generated/languages.svg) -->
     
