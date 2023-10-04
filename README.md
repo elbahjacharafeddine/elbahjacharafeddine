@@ -1,4 +1,3 @@
-# elbahja-charafeddine-profil
 
 - 👋 Hi, I’m @ELBAHJA (ELBAHJA Charafeddine) a software engineer
 - 🌱 I'm interested in Software Engineering
