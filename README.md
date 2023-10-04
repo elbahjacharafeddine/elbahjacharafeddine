@@ -1,16 +1,106 @@
-### Hi there 👋
+# elbahja-charafeddine-profil
 
-<!--
-**elbahjacharafeddine/elbahjacharafeddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @ELBAHJA (ELBAHJA Charafeddine) a software engineer
+- 🌱 I'm interested in Software Engineering
+- 💞️ looking to collaborate with you
+- 📫 How to reach me : +212 663153919, or  [linkedIn](https://www.linkedin.com/in/charafeddine-elbahja-5438b920a/)
+- 📍 Morocco
+<!---
+oubaydos/oubaydos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+### **Languages and Technologies:**
+<p float="left">
+ <a href="https://www.cplusplus.com/">
+<img alt="c++" src="https://devstickers.com/assets/img/pro/35k9.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img alt="c" src="https://k.top4top.io/p_2065hlozy1.png" width="40">
+ </a>
+ <a href="https://www.java.com/">
+<img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+ </a>
+ <a href="https://www.python.org/">
+<img alt="python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="js" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+   <a href="https://en.wikipedia.org/wiki/TypeScript">
+<img alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
+  </a>
+ <a href="https://dart.dev/">
+<img alt="dart" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
+  </a>
+  <a href="https://www.php.net/">
+  <img alt="dart" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw1V89NeUQr3WcJ-kw-ez8k-&ust=1696465084941000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD364iP24EDFQAAAAAdAAAAABAE" width="40">
+  </a>
+ </p>
+ <p float="left">
+ <a href="https://en.wikipedia.org/wiki/HTML">
+<img alt="html5" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/CCS3">
+<img alt="css3" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+  </a>
+  <a href="https://jquery.com/">
+<img alt="jQuery" src="https://i.pinimg.com/originals/c0/26/1a/c0261af0418d8ad72fdd8a7f4379d7db.png" width="40">
+  </a>
+ <a href="https://reactjs.org/">
+<img alt="reactJS" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+<a href="https://angular.io/">
+<img alt="reactJS" src="https://devstickers.com/assets/img/pro/8ptb.png" width="40">
+  </a>
+ <a href="https://nodejs.org/en/">
+<img alt="nodeJS" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+  </a>
+ 
+  <a href="https://spring.io/">
+<img alt="spring" src="https://velog.velcdn.com/images/minhyeok_dev/post/ebbc5f27-dd75-483b-9ae6-04129d258699/image.png" width="40">
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+ <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" width="60"/>
+ </a>
+ </a>
+  <a href="https://www.djangoproject.com/">
+ <img alt="django"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+ </a>
+</p>
+<p float="left">
+</a>
+  <a href="https://www.mysql.com/">
+<img alt="mysql" src="https://logo-download.com/wp-content/data/images/png/MySQL-logo.png" width="60">
+  </a>
+<a href="https://www.postgresql.org/">
+<img alt="postgresql" src="https://devstickers.com/assets/img/pro/7vhj.png" width="40">
+  </a>
+  <a href="mongodb.org">
+<img alt="mongodb" src="https://devstickers.com/assets/img/pro/y3fb.png" width="40">
+  </a>
+  <a href="https://www.oracle.com/">
+<img alt="oracle" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" width="60">
+  </a>
+</p>
+<p float="left">
+<a href="https://git-scm.com/">
+<img alt="git" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+  <a href="https://docker.com/">
+<img alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40">
+  </a>
+  <a href="https://maven.apache.org/">
+<img alt="maven" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d00048205a466c174da3c77093a1336/apache-maven.png" width="70">
+  </a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  - 📈 check out my github stats 
+ <a href="https://github.com/elbahjacharafeddine">
+
+[![ELBAHJA GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elbahjacharafeddine)](https://github.com/elbahjacharafeddine)
+
+![](https://github.com/elbahjacharafeddine/README/blob/main/generated/overview.svg)
+<!---
+![](https://github.com/elbahjacharafeddine/README/blob/main/generated/languages.svg) -->
+    
