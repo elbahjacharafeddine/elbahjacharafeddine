@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="dart" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
   </a>
   <a href="https://www.php.net/">
-  <img alt="php" src="https://i0.wp.com/hanamon.kr/wp-content/uploads/2021/03/PHP-logo.png" width="40">
+  <img alt="php" src="https://i0.wp.com/hanamon.kr/wp-content/uploads/2021/03/PHP-logo.png" width="40" heigth="50">
   </a>
  </p>
  <p float="left">
