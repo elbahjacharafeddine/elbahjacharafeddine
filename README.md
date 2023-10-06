@@ -105,4 +105,19 @@ You can click the Preview link to take a look at your changes.
 ![](https://github.com/elbahjacharafeddine/README/blob/main/generated/overview.svg)
 <!---
 ![](https://github.com/elbahjacharafeddine/README/blob/main/generated/languages.svg) -->
-    
+
+
+
+
+
+<h3 align="left">Stats :</h3>
+<p align="center"> 
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbahjacharafeddine&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ELBAHJA Charafeddine" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elbahjacharafeddine&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ELBAHJA Charafeddine" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=elbahjacharafeddine&theme=highcontrast&hide_border=true" alt="ELBAHJA Charafeddine"/>
+</p>
+<p>
+&nbsp;
+</p>
+<h3 align="left">Activity graph :</h3>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elbahjacharafeddine&custom_title=ELBAHJA%20Charafeddine's%20Contribution%20Graph&hide_border=true&bg_color=343a40&color=dc3545)](https://github.com/ashutosh00710/github-readme-activity-graph)
