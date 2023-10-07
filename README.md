@@ -10,32 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ### **Languages and Technologies:**
 <p float="left">
- <a href="https://www.cplusplus.com/">
-<img alt="c++" src="https://devstickers.com/assets/img/pro/35k9.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img alt="c" src="https://k.top4top.io/p_2065hlozy1.png" width="40">
- </a>
- <a href="https://www.java.com/">
-<img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
- <a href="https://www.python.org/">
-<img alt="python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="js" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
-   <a href="https://en.wikipedia.org/wiki/TypeScript">
-<img alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
-  </a>
- <a href="https://dart.dev/">
-<img alt="dart" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
-  </a>
-  <a href="https://www.php.net/">
-  <img alt="php" src="https://i0.wp.com/hanamon.kr/wp-content/uploads/2021/03/PHP-logo.png" width="40" heigth="50">
-  </a>
- </p>
- <p float="left">
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="html5" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
  </a>
@@ -71,6 +45,33 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p float="left">
 </a>
+<p float="left">
+ <a href="https://www.cplusplus.com/">
+<img alt="c++" src="https://devstickers.com/assets/img/pro/35k9.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img alt="c" src="https://k.top4top.io/p_2065hlozy1.png" width="40">
+ </a>
+ <a href="https://www.java.com/">
+<img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+ </a>
+ <a href="https://www.python.org/">
+<img alt="python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+ </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="js" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+   <a href="https://en.wikipedia.org/wiki/TypeScript">
+<img alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
+  </a>
+ <a href="https://dart.dev/">
+<img alt="dart" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
+  </a>
+  <a href="https://www.php.net/">
+  <img alt="php" src="https://i0.wp.com/hanamon.kr/wp-content/uploads/2021/03/PHP-logo.png" width="40" heigth="50">
+  </a>
+ </p>
+ 
   <a href="https://www.mysql.com/">
 <img alt="mysql" src="https://logo-download.com/wp-content/data/images/png/MySQL-logo.png" width="60">
   </a>
